@@ -1,5 +1,3 @@
-# 24_home
-
 ## Project setup
 ```
 npm install
